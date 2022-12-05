@@ -1,0 +1,48 @@
+.residents-container{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+gap: 20px;
+width: 100%;
+max-width: 1480px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.background{
+    background-image: url('/images/Frame\ 259.png');
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position:relative;
+    height: 372px;
+    max-width: 100%;
+    width: 1440px;
+    margin-bottom: 15px;
+
+    
+   
+}
+form{
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    width: 90%;
+    height: 25px;
+    background-color: 
+    #707470;
+  
+  }
+  button{
+  padding: 0.5em 1em;
+  border: none;
+  background: black; 
+  cursor: pointer;
+  color: white;
+  }
+  
