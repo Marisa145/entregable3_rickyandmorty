@@ -35,7 +35,8 @@ const handleSubmit = e =>{
 
   return (
     <div className="App">
-      <div className='background'>   </div>
+      <div className='background'>  
+      <img src="images/portada.png" alt="" /> </div>
     
       <form onSubmit={handleSubmit} >
         <input id='inputSearch'type="text" />

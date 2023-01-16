@@ -10,18 +10,8 @@ margin-right: auto;
 }
 
 .background{
-    background-image: url('/images/Frame\ 259.png');
-    background-position: center ;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position:relative;
-    height: 372px;
+    height: auto;
     max-width: 100%;
-    width: 1440px;
-    margin-bottom: 15px;
-
-    
-   
 }
 form{
     width: 100%;
